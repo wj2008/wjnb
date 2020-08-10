@@ -1,0 +1,19 @@
+{
+  "name": "wjsb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wj2008/wjnb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wj2008/wjnb/issues"
+  },
+  "homepage": "https://github.com/wj2008/wjnb#readme"
+}
